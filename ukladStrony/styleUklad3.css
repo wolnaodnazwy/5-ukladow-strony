@@ -1,0 +1,58 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+p {
+  margin: 0px;
+  padding: 0px;
+}
+
+.header{
+  background-color: red;
+  height: 100px;
+}
+
+#circle {
+  width:60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: blue;
+  float: left;
+  margin: 20px;
+}
+
+#title{
+  width:60%;
+  background-color: red;
+  margin: 20px;
+  float: right;
+  font-size: 30px;
+}
+
+#menu{
+    background-color: grey;
+    height: 250px;
+    width: 20%;
+    float: left;
+}
+
+#tresc {
+  background-color: yellow;
+  height: 250px;
+  float: left;
+  width: 60%;
+}
+
+#menu2{
+    background-color: green;
+    height: 250px;
+    width: 20%;
+    float: right;
+}
+
+#footer {
+  background-color: purple;
+  height: 60px;
+  clear: both;
+}

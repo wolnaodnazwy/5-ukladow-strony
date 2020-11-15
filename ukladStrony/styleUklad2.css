@@ -1,0 +1,35 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+p {
+  margin: 0px;
+  padding: 0px;
+}
+
+#header {
+  background-color: red;
+  display: block;
+  height: 60px;
+}
+
+#menu{
+    background-color: grey;
+    height: 250px;
+    width: 20%;
+    float: left;
+}
+
+#tresc {
+  background-color: yellow;
+  height: 250px;
+  width: 80%;
+  float: right;
+}
+
+#footer {
+  background-color: purple;
+  height: 60px;
+  clear: both;
+}

@@ -1,0 +1,37 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+p {
+  margin: 0px;
+  padding: 0px;
+}
+
+#header {
+  background-color: red;
+  display: block;
+  height: 60px;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
+
+#tresc {
+  background-color: yellow;
+  display: block;
+  height: 250px;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
+
+#footer {
+  background-color: purple;
+  display: block;
+  height: 60px;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}

@@ -1,0 +1,89 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+p {
+  margin: 0px;
+  padding: 0px;
+}
+
+.header{
+  background-color: red;
+  height: 100px;
+}
+
+#circle {
+  width:60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: blue;
+  float: left;
+  margin: 20px;
+}
+
+.menu {
+  float: left;
+  width: 70%;
+  padding: 0px;
+  margin: 25px;
+  list-style: none;
+}
+li {
+	float: right;
+}
+
+ul a:link, ul a:visited {
+	text-decoration: none;
+	display: block;
+	width: 90px;
+	text-align: center;
+	background-color: #ccc;
+	color: #000;
+	border: 2px outset #ccc;
+	padding: 5px;
+}
+
+ul a:hover {
+	border-style: inset;
+	padding: 7px 3px 3px 7px;
+}
+
+#tresc {
+  background-color: yellow;
+  height: 250px;
+  width: 40%;
+  float: left;
+}
+
+#tresc2 {
+  background-color: yellow;
+  height: 250px;
+  width: 60%;
+  float: right;
+}
+
+#line {
+  border-left:1px solid grey;
+  height: 85%;
+  width: 0;
+}
+
+#footer1 {
+  background-color: purple;
+  height: 60px;
+  float: left;
+  width: 33%;
+}
+#footer2 {
+  background-color: green;
+  height: 60px;
+  float: left;
+  width: 34%;
+}
+#footer3 {
+  background-color: black;
+  height: 60px;
+  float: right;
+  width: 33%;
+}
