@@ -72,14 +72,12 @@ ul a:hover {
 
 .vid{
     background-color: #996543;
-    height: 150px;
-    width: 96.8%;
+    height: 190px;
+    width: 100%;
     clear: both;
-    padding: 20px;
 }
-#wideo{
-  background-color: #991234;
-  height: 150px;
+video{
+    margin: 20px;
 }
 
 #footer {
